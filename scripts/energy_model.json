@@ -1,0 +1,14 @@
+{
+  "_note": "Assumed coefficients for preliminary energy estimates. Calibrate or replace in Phase 3.",
+  "core_energy_per_inst_pJ_at_1V": 15,
+  "core_energy_per_cycle_pJ_at_1V": 5,
+  "l1_access_pJ_at_1V": 10,
+  "memory_access_pJ": 25,
+  "memory_voltage_V": 1.0,
+  "core_leakage_uA": 20,
+  "l1_leakage_uW_each_at_1V": 5,
+  "memory_leakage_uW_per_bank_active": 10,
+  "memory_banks": 4,
+  "retention_leakage_factor": 0.575,
+  "always_on_uW": 1.0
+}
